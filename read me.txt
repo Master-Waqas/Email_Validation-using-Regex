@@ -1,0 +1,7 @@
+This Email Validator includes:
+
+1. All letters Lowercase or Uppercase.
+2. Digits 0 - 9
+3. . _time 1
+4. @ time 1
+5. . 2, .3 position at end
